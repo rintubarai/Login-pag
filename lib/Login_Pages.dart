@@ -39,7 +39,7 @@ class LoginPage extends StatelessWidget{
                       color: Colors.blueGrey,
                       fontSize: 18,
                     ),
-                    fillColor: Colors.black12,
+                    fillColor: Colors.blueGrey,
                     filled: true,
                     enabledBorder: OutlineInputBorder(
                     ),
